@@ -22,7 +22,7 @@ dependencies {
 }
 ```
 
-### Usage example
+### Usage example.
 
 1. For fixed frame list there is already an implementation of
    `GLSurfaceView` that you can use out of the box. Your layout and code
